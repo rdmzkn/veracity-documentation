@@ -33,7 +33,10 @@
           "href": "combiningresources.md"
         }
       ]
+    },
+    {
+      "text": "How to publish an API",
+      "href": "publishapi.md"
     }
-
   ]
 }
